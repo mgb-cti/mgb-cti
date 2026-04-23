@@ -12,5 +12,4 @@ My goal is to continuously build and document practical, real-world skills by an
 
 This portfolio will evolve over time as I expand into deeper areas of threat intelligence, including campaign tracking, adversary profiling, and automation using Python.
 
-:us:
 ---
