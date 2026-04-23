@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome :mag:
 
-<!--
-**mgb-cti/mgb-cti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository serves as a central hub for my work in cybersecurity, with a primary focus on threat intelligence, OSINT, and security operations.
 
-Here are some ideas to get you started:
+Here you will find a growing collection of:
+- Threat intelligence reports
+- IOC analysis and infrastructure investigations
+- Detection engineering content, including Splunk queries and Sigma rules
+- Homelab projects simulating real-world attack scenarios and defensive responses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to continuously build and document practical, real-world skills by analyzing active threats, mapping them to MITRE ATT&CK, and translating findings into actionable detection logic.
+
+This portfolio will evolve over time as I expand into deeper areas of threat intelligence, including campaign tracking, adversary profiling, and automation using Python.
+
+:us:
+---
