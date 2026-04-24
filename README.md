@@ -9,4 +9,3 @@ Here you will find a growing collection of:
 - Homelab projects simulating real-world attack scenarios and defensive responses
 
 My goal is to continuously build and document practical, real-world skills by analyzing active threats, mapping them to MITRE ATT&CK, and translating findings into actionable detection logic.
----
