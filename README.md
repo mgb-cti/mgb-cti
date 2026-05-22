@@ -1,6 +1,6 @@
 ## Welcome :mag:
 
-This repository serves as a central hub for my work in cybersecurity, with a primary focus on threat intelligence, OSINT, and security operations.
+Welcome to my central hub for my work in cybersecurity, with a primary focus on threat intelligence, OSINT, and security operations.
 
 Here you will find a growing collection of:
 - Threat intelligence reports
