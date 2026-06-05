@@ -1,4 +1,4 @@
-## Welcome :mag:
+## Welcome :mag: ![](https://komarev.com/ghpvc/?username=mgb-cti&color=orange)
 
 Welcome to my central hub for my work in cybersecurity, with a primary focus on threat intelligence, OSINT, and security operations.
 
